@@ -10,7 +10,7 @@ To use this Prework Study Guide, you can review the notes in each section. For s
 
 ## Screenshot
 
-![preworkStudyGuide](./assets/finished-product.png)
+![preworkStudyGuide](./assets/images/finished-product.png)
 
 ## Deployed page
 
