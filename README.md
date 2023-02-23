@@ -14,8 +14,8 @@ To use this Prework Study Guide, you can review the notes in each section. For s
 
 ## Deployed page
 
-[https://erin-m-keller.github.io/prework-study-guide/](https://erin-m-keller.github.io/prework-study-guide/)
+[View Published Page](https://erin-m-keller.github.io/prework-study-guide/)
 
 ## License
 
-Please refer to the LICENSE in the repo.
+[MIT](https://choosealicense.com/licenses/mit/)
